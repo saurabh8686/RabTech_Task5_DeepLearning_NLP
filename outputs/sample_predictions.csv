@@ -1,0 +1,4 @@
+review,predicted_sentiment,positive_probability,confidence_percent
+"This movie was wonderful, emotional, and beautifully acted.",Positive,0.9872,98.72
+"The film was boring, poorly written, and a complete waste of time.",Negative,0.0023,99.77
+"The acting was good, but the story was predictable.",Negative,0.2515,74.85

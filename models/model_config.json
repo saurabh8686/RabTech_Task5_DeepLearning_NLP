@@ -1,0 +1,16 @@
+{
+    "input_size": 20000,
+    "max_features": 20000,
+    "architecture": [
+        20000,
+        256,
+        128,
+        1
+    ],
+    "threshold": 0.5,
+    "labels": {
+        "0": "Negative",
+        "1": "Positive"
+    },
+    "seed": 42
+}
